@@ -1,0 +1,10 @@
+class Solution:
+    def canConstruct(self, ransomNote: str, magazine: str) -> bool:
+        r_dic = Counter(ransomNote)
+        m_dic = Counter(magazine)
+
+        for key in r_dic:
+            if r_dic[key] > m_dic[key]:
+                return False
+        
+        return True

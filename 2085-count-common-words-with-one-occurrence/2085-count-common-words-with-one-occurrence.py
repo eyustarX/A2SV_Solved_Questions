@@ -5,8 +5,7 @@ class Solution:
         count = 0
 
         for key in dic1:
-            if key in dic2:
-                if dic1[key] == 1 and dic2[key] == 1:
-                    count += 1
+            if dic1[key] == 1 and dic2[key] == 1:
+                count += 1
         
         return count

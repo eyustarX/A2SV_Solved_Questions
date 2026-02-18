@@ -10,6 +10,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2418-sort-the-people](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## String
 |  |
@@ -19,11 +20,13 @@
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1657-determine-if-two-strings-are-close](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2418-sort-the-people](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2418-sort-the-people](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Counting
 |  |
@@ -55,6 +58,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2418-sort-the-people](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Matrix
 |  |

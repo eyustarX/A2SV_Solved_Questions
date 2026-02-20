@@ -1,17 +1,15 @@
 class Solution:
     def smallestPalindrome(self, s: str) -> str:
-        if len(s)<=1:
-            return s
-        
-        if len(s) % 2 == 0:
-            word = s[:len(s)//2]
-            word = sorted(word)
-            return "".join(word + word[::-1])
+        n = len(s)
 
-        
+        if n <= 1:
+            return s
+
+        half_length = n // 2
+        first_half = sorted(s[:half_length])
+
+        if n % 2 == 0:
+            return "".join(first_half + first_half[::-1])
         else:
-            word = s[:len(s)//2]
-            word = sorted(word)
-            w = word[::-1]
-            word.append(s[len(s)//2])
-            return "".join(word + w)
+            middle_char = s[half_length]
+            return "".join(first_half + [middle_char] + first_half[::-1])

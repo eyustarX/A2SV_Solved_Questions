@@ -92,6 +92,7 @@
 | [0283-move-zeroes](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
+| [0643-maximum-average-subarray-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0819-most-common-word](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
@@ -164,4 +165,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

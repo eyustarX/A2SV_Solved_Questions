@@ -7,6 +7,7 @@
 | [0073-set-matrix-zeroes](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
+| [0763-partition-labels](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0819-most-common-word](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -21,6 +22,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
+| [0763-partition-labels](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0819-most-common-word](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0819-most-common-word) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -69,6 +71,7 @@
 | [0011-container-with-most-water](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0763-partition-labels](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
@@ -139,6 +142,7 @@
 | [0189-rotate-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
+| [0763-partition-labels](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |

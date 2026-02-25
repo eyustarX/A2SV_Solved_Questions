@@ -1,9 +1,6 @@
 class Solution:
     def findMaxAverage(self, nums: List[int], k: int) -> float:
-        window_sum = 0
-        
-        for i in range(k):
-            window_sum += nums[i]
+        window_sum = sum(nums[:k])
         
         max_sum= window_sum
         left = 0

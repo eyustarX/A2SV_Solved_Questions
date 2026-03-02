@@ -1,7 +1,7 @@
 class NumArray:
 
     def __init__(self, nums: List[int]):
-        self.prefix = [0] * (len(nums))
+        self.prefix = [0] * len(nums)
 
         for i, num in enumerate(nums):
             self.prefix[i] = self.prefix[i - 1] + num

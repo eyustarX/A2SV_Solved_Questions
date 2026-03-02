@@ -11,12 +11,13 @@ class Solution:
                 if shift[1] + 1 < len(s):
                     prefix[shift[1] + 1] -= 1
 
-        for i in range(1,len(s)):
-            prefix[i] += prefix[i-1]
-        
         ans = []
         for i in range(len(s)):
+            if i == 0:
+                pass
+            else:
+                prefix[i] += prefix[i-1]
             new_char = (ord(s[i]) - ord('a') + prefix[i]) % 26
             ans.append(chr(ord('a') + new_char))
-            
+        
         return "".join(ans)

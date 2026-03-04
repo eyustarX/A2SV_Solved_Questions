@@ -13,6 +13,7 @@
 | [0791-custom-sort-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0819-most-common-word](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -111,6 +112,7 @@
 | [0881-boats-to-save-people](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0885-spiral-matrix-iii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0885-spiral-matrix-iii) |
 | [0904-fruit-into-baskets](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0969-pancake-sorting](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -194,6 +196,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
@@ -206,6 +209,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
+| [0930-binary-subarrays-with-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |

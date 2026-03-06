@@ -177,6 +177,7 @@
 | [0283-move-zeroes](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0763-partition-labels](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
+| [0876-middle-of-the-linked-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -247,6 +248,7 @@
 | [0203-remove-linked-list-elements](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |

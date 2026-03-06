@@ -11,9 +11,10 @@ class Solution:
         while curr:
             count += 1
             curr = curr.next
-        k = count // 2 
-        node = head
-        for _ in range(k):
-            node = node.next
 
-        return node
+        k = count // 2 
+        
+        for _ in range(k):
+            head = head.next
+
+        return head

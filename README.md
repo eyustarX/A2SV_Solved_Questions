@@ -124,6 +124,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1314-matrix-block-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1314-matrix-block-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -149,6 +150,7 @@
 | [0661-image-smoother](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0885-spiral-matrix-iii) |
+| [1314-matrix-block-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1314-matrix-block-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Simulation
@@ -224,6 +226,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1314-matrix-block-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1314-matrix-block-sum) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [2381-shifting-letters-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |

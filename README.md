@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
@@ -25,8 +25,8 @@
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0179-largest-number) |
@@ -43,8 +43,8 @@
 | [2418-sort-the-people](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0179-largest-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0274-h-index) |
@@ -61,15 +61,15 @@
 | [2780-minimum-index-of-a-valid-split](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0229-majority-element-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0819-most-common-word](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0819-most-common-word) |
 | [1657-determine-if-two-strings-are-close](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -80,8 +80,8 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -92,8 +92,8 @@
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
@@ -107,6 +107,7 @@
 | [0274-h-index](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -138,11 +139,12 @@
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0498-diagonal-traverse](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
@@ -150,21 +152,21 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0885-spiral-matrix-iii) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0274-h-index](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -177,27 +179,27 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0868-binary-gap) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -207,15 +209,16 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -225,21 +228,22 @@
 | [1480-running-sum-of-1d-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [2381-shifting-letters-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0328-odd-even-linked-list) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->

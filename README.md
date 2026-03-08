@@ -21,6 +21,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1980-find-unique-binary-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1980-find-unique-binary-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -38,6 +39,7 @@
 | [0819-most-common-word](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0819-most-common-word) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1657-determine-if-two-strings-are-close](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1980-find-unique-binary-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1980-find-unique-binary-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2381-shifting-letters-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
@@ -133,6 +135,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1980-find-unique-binary-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1980-find-unique-binary-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -260,4 +263,8 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->

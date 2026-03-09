@@ -10,6 +10,7 @@
 | [0229-majority-element-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
@@ -119,6 +120,7 @@
 | [0303-range-sum-query-immutable](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0496-next-greater-element-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -282,6 +284,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
+| [0496-next-greater-element-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [1598-crawler-log-folder](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 ## Queue
 |  |
@@ -293,4 +296,8 @@
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

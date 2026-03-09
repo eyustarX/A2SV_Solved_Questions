@@ -254,6 +254,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Divide and Conquer
 |  |
@@ -285,9 +286,11 @@
 ## Queue
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->

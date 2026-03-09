@@ -5,7 +5,7 @@ class Solution:
 
         for i in p:
             if i not in ['','.','..']:
-                if stack and stack[-1] != '/':
+                if stack:
                     stack.append('/')
 
                 stack.append(i)

@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
@@ -267,4 +268,8 @@
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1980-find-unique-binary-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

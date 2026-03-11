@@ -157,6 +157,7 @@
 | [2418-sort-the-people](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Matrix
 |  |
 | ------- |
@@ -212,6 +213,7 @@
 | [0287-find-the-duplicate-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0868-binary-gap) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -255,6 +258,7 @@
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [2381-shifting-letters-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Design
 |  |
 | ------- |
@@ -300,6 +304,7 @@
 | [0641-design-circular-deque](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Data Stream
 |  |
 | ------- |

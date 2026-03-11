@@ -125,6 +125,7 @@
 | [0498-diagonal-traverse](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0641-design-circular-deque](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0739-daily-temperatures](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
@@ -259,6 +260,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0641-design-circular-deque](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Divide and Conquer
@@ -273,6 +275,7 @@
 | [0203-remove-linked-list-elements](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0328-odd-even-linked-list) |
+| [0641-design-circular-deque](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -294,6 +297,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
+| [0641-design-circular-deque](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream

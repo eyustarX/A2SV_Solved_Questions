@@ -121,6 +121,7 @@
 | [0303-range-sum-query-immutable](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0456-132-pattern](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -221,6 +222,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
+| [0456-132-pattern](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 ## String Matching
 |  |
@@ -299,6 +301,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
+| [0456-132-pattern](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
@@ -321,6 +324,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -336,4 +340,8 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->

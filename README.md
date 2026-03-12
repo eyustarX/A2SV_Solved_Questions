@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
@@ -29,8 +29,8 @@
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -52,8 +52,8 @@
 | [2418-sort-the-people](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0179-largest-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0274-h-index) |
@@ -70,16 +70,16 @@
 | [2780-minimum-index-of-a-valid-split](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0229-majority-element-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0819-most-common-word](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0819-most-common-word) |
 | [1657-determine-if-two-strings-are-close](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -91,9 +91,10 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
 | [0179-largest-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0763-partition-labels](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
@@ -103,12 +104,13 @@
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0179-largest-number) |
@@ -162,8 +164,8 @@
 | [2780-minimum-index-of-a-valid-split](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
@@ -176,21 +178,21 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0885-spiral-matrix-iii) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0274-h-index](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -207,31 +209,31 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0868-binary-gap) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
@@ -243,13 +245,14 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -264,8 +267,8 @@
 | [2381-shifting-letters-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0641-design-circular-deque](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
@@ -273,12 +276,12 @@
 | [1472-design-browser-history](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
@@ -289,18 +292,18 @@
 | [1472-design-browser-history](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [2487-remove-nodes-from-linked-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0394-decode-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1980-find-unique-binary-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1980-find-unique-binary-string) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0394-decode-string) |
@@ -311,40 +314,40 @@
 | [1598-crawler-log-folder](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [2487-remove-nodes-from-linked-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 | [0641-design-circular-deque](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0456-132-pattern](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1472-design-browser-history](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0456-132-pattern](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->

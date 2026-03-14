@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
@@ -225,6 +226,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |

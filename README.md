@@ -93,6 +93,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 ## Greedy
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 ## Array
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2381-shifting-letters-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |

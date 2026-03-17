@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
@@ -314,6 +315,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0394-decode-string) |

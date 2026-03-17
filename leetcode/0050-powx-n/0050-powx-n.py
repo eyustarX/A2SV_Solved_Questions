@@ -12,6 +12,6 @@ class Solution:
                 return a * value * value
         
         if n < 0:
-            return 1 / p(x, -n)
+            return 1 / p(x, abs(-n))
         
         return p(x, n)

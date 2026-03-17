@@ -95,6 +95,7 @@
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -167,6 +168,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1598-crawler-log-folder](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1980-find-unique-binary-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -201,6 +203,7 @@
 | [0498-diagonal-traverse](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0885-spiral-matrix-iii) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Counting Sort
 |  |
 | ------- |
@@ -320,6 +323,7 @@
 | [0342-power-of-four](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Backtracking
 |  |
@@ -344,6 +348,7 @@
 | [0239-sliding-window-maximum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 | [0641-design-circular-deque](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Data Stream

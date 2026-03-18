@@ -8,13 +8,16 @@ class Solution:
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         ans = []
 
-        if not root:
-            return []
+        def inorder(root):
+            if not root:
+                return []
         
-        ans.extend(self.inorderTraversal(root.left))
+            inorder(root.left)
 
-        ans.append(root.val)
+            ans.append(root.val)
+
+            inorder(root.right)
         
-        ans.extend(self.inorderTraversal(root.right))
+        inorder(root)
 
         return ans

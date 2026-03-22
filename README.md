@@ -39,6 +39,7 @@
 | [0179-largest-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0763-partition-labels](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
@@ -226,6 +227,7 @@
 | [0283-move-zeroes](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0763-partition-labels](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |

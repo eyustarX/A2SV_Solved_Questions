@@ -414,6 +414,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -425,6 +426,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
 | ------- |
@@ -439,6 +441,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -453,6 +456,7 @@
 | [0101-symmetric-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Hash Function
 |  |
 | ------- |

@@ -59,6 +59,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0274-h-index) |
@@ -226,6 +227,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0142-linked-list-cycle-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
@@ -319,11 +321,13 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0328-odd-even-linked-list) |
@@ -469,4 +473,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

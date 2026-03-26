@@ -6,29 +6,33 @@
 #         self.right = right
 class Solution:
     def deleteNode(self, root: Optional[TreeNode], key: int) -> Optional[TreeNode]:
-        def minValue(r):
-            curr = r
-            while curr and curr.left:
+        def minValue(node):
+            curr = node
+            while curr.left:
                 curr = curr.left
+            
             return curr
-        
-        def remove(root,val):
-            if not root:
+
+        def deleteNode(node, key):
+            if not node:
                 return None
             
-            if val > root.val:
-                root.right = remove(root.right,val)
-            elif val < root.val:
-                root.left = remove(root.left,val)
+            if key < node.val:
+                node.left = deleteNode(node.left, key)
+            
+            elif key > node.val:
+                node.right = deleteNode(node.right, key)
+            
             else:
-                if not root.left:
-                    return root.right
-                elif not root.right:
-                    return root.left
-                else:
-                    minNode = minValue(root.right)
-                    root.val = minNode.val
-                    root.right = remove(root.right,minNode.val)
-            return root   
+                if not node.left:
+                    return node.right
+                elif not node.right:
+                    return node.left
+                
+                temp = minValue(node.right)
+                node.val = temp.val
+                node.right = deleteNode(node.right, temp.val)
+
+            return node
         
-        return remove(root,key)
+        return deleteNode(root, key)

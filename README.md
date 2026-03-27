@@ -131,6 +131,7 @@
 | [0011-container-with-most-water](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
@@ -355,6 +356,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1980-find-unique-binary-string) |
 ## Stack

@@ -9,8 +9,8 @@ class Solution:
             if len(comb) == n:
                 ans.append(comb[:])
                 return
-            
-            for i in range(len(hash_map[digits[index]])):
+            y = len(hash_map[digits[index]])
+            for i in range(y):
                 comb += hash_map[digits[index]][i]
                 backtracking(index + 1, comb)
                 comb= comb[:-1]

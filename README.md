@@ -163,6 +163,7 @@
 | [0641-design-circular-deque](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
+| [0704-binary-search](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0781-rabbits-in-forest](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0819-most-common-word](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0819-most-common-word) |
@@ -273,6 +274,7 @@
 | [0287-find-the-duplicate-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0704-binary-search) |
 ## String Matching
 |  |
 | ------- |

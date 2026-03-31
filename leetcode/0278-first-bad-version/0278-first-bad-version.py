@@ -4,7 +4,8 @@
 class Solution:
     def firstBadVersion(self, n: int) -> int:
         left, right = 1, n
-        ans = -1
+        ans = (left + right) // 2
+        
         while left <= right:
             mid = (left + right) // 2
 

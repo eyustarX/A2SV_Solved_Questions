@@ -7,12 +7,12 @@ class Solution:
             index = (left + right) // 2
 
             if nums[index] == target:
-                k = y = index
-                while k + 1 < len(nums) and nums[k + 1] == target:
-                    k += 1
-                while y - 1 >= 0 and nums[y - 1] == target:
-                    y -= 1
-                return [y, k]
+                upper = lower = index
+                while upper + 1 < len(nums) and nums[upper + 1] == target:
+                    upper += 1
+                while lower - 1 >= 0 and nums[lower - 1] == target:
+                    lower -= 1
+                return [lower, upper]
                 
             if nums[index] > target:
                 return search(left, index - 1)

@@ -275,6 +275,7 @@
 | [0069-sqrtx](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
@@ -504,4 +505,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0148-sort-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

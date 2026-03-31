@@ -11,6 +11,8 @@ class Solution:
                     value = weights[i]
                     count += 1
                 i += 1
+                if count > days:
+                    break
             return count <= days    
         
         left = max(weights)

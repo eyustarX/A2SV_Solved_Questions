@@ -175,6 +175,7 @@
 | [0819-most-common-word](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0885-spiral-matrix-iii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0885-spiral-matrix-iii) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -285,6 +286,7 @@
 | [0456-132-pattern](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0875-koko-eating-bananas) |
 ## String Matching
 |  |
 | ------- |

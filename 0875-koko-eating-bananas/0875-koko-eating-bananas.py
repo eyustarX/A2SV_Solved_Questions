@@ -6,14 +6,11 @@ class Solution:
         def check(mid):
             count = 0
             for num in piles:
-                if num > mid:
-                    if num % mid != 0:
-                        count += 1
-                    count += (num // mid)
+                count += (num + mid - 1) // mid
+
+                if count > h:
+                    return count
                 
-                else:
-                    count += 1
-            
             return count
         
         while left <= right:

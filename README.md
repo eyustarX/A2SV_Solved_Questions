@@ -75,6 +75,7 @@
 | [0475-heaters](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0791-custom-sort-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -186,6 +187,7 @@
 | [0885-spiral-matrix-iii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0885-spiral-matrix-iii) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0969-pancake-sorting](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -240,6 +242,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0274-h-index) |
+| [0912-sort-an-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
@@ -356,6 +359,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0912-sort-an-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -437,6 +441,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -529,8 +534,17 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

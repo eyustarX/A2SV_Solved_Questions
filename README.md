@@ -366,6 +366,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
@@ -378,6 +379,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0342-power-of-four) |

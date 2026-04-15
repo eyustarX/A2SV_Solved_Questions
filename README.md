@@ -57,6 +57,7 @@
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1598-crawler-log-folder](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [1657-determine-if-two-strings-are-close](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1980-find-unique-binary-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1980-find-unique-binary-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -401,6 +402,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1980-find-unique-binary-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1980-find-unique-binary-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Stack
@@ -553,4 +555,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 <!---LeetCode Topics End-->

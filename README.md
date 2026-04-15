@@ -178,6 +178,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0641-design-circular-deque](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0654-maximum-binary-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0661-image-smoother](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
@@ -366,6 +367,7 @@
 | [0053-maximum-subarray](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0148-sort-list) |
+| [0654-maximum-binary-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
 ## Linked List
@@ -421,6 +423,7 @@
 | [0394-decode-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [1598-crawler-log-folder](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
@@ -447,6 +450,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
@@ -484,6 +488,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -517,6 +522,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |

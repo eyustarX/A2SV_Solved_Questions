@@ -210,6 +210,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2305-fair-distribution-of-cookies](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -287,6 +288,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0868-binary-gap) |
+| [2305-fair-distribution-of-cookies](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
 |  |
@@ -331,6 +333,7 @@
 | [0486-predict-the-winner](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2305-fair-distribution-of-cookies](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -404,6 +407,7 @@
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1980-find-unique-binary-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1980-find-unique-binary-string) |
+| [2305-fair-distribution-of-cookies](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
@@ -559,4 +563,8 @@
 |  |
 | ------- |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->

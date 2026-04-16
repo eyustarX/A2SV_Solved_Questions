@@ -217,6 +217,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2305-fair-distribution-of-cookies](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -315,6 +316,7 @@
 | [0633-sum-of-square-numbers](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0875-koko-eating-bananas) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## String Matching
 |  |
 | ------- |

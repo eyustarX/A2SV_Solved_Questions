@@ -8,6 +8,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0140-word-break-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
@@ -43,6 +44,7 @@
 | [0020-valid-parentheses](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
+| [0140-word-break-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
@@ -156,6 +158,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0140-word-break-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0179-largest-number) |
@@ -335,6 +338,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
+| [0140-word-break-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0486-predict-the-winner](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -408,6 +412,7 @@
 | [0051-n-queens](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
+| [0140-word-break-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -477,6 +482,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
@@ -577,4 +583,8 @@
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->

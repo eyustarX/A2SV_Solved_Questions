@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0140-word-break-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
@@ -147,6 +148,7 @@
 | [0011-container-with-most-water](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0051-n-queens) |

@@ -72,6 +72,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
@@ -156,6 +157,7 @@
 | [0054-spiral-matrix](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
@@ -266,6 +268,7 @@
 | [0011-container-with-most-water](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |

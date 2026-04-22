@@ -525,6 +525,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1971-find-if-path-exists-in-graph](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -561,6 +562,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1971-find-if-path-exists-in-graph](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Hash Function
 |  |
 | ------- |
@@ -594,4 +596,12 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->

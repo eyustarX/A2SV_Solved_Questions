@@ -6,17 +6,17 @@ class Solution:
             graph[u].append(v)
             graph[v].append(u)
         
-        def dfs(node, visited):
+        stack = [source]
+        visited = {source}
+        
+        while stack:
+            node = stack.pop()
             if node == destination:
                 return True
             
-            visited.add(node)
-
             for neighbour in graph[node]:
                 if neighbour not in visited:
-                    if dfs(neighbour, visited):
-                        return True
+                    stack.append(neighbour)
+                    visited.add(neighbour)
             
-            return False
-        
-        return dfs(source, set())
+        return False

@@ -540,6 +540,7 @@
 | [0979-distribute-coins-in-binary-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -586,6 +587,7 @@
 | [0965-univalued-binary-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Hash Function
 |  |
 | ------- |
@@ -634,9 +636,11 @@
 | [0785-is-graph-bipartite](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->

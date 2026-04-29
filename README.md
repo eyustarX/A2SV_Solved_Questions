@@ -222,6 +222,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1980-find-unique-binary-string) |
+| [2050-parallel-courses-iii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2050-parallel-courses-iii) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -355,6 +356,7 @@
 | [0486-predict-the-winner](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2050-parallel-courses-iii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2050-parallel-courses-iii) |
 | [2305-fair-distribution-of-cookies](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 ## Prefix Sum
 |  |
@@ -636,11 +638,13 @@
 | [0785-is-graph-bipartite](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2050-parallel-courses-iii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2050-parallel-courses-iii) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
+| [2050-parallel-courses-iii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2050-parallel-courses-iii) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->

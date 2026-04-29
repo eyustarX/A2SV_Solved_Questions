@@ -20,6 +20,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0690-employee-importance](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0763-partition-labels](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
@@ -194,6 +195,7 @@
 | [0645-set-mismatch](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0661-image-smoother](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
+| [0690-employee-importance](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0704-binary-search](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0781-rabbits-in-forest](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
@@ -516,6 +518,7 @@
 | [0572-subtree-of-another-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
+| [0690-employee-importance](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0700-search-in-a-binary-search-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -537,6 +540,7 @@
 | [0463-island-perimeter](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0690-employee-importance](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0785-is-graph-bipartite](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
@@ -586,6 +590,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0690-employee-importance](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0785-is-graph-bipartite](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |

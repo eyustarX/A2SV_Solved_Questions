@@ -4,8 +4,8 @@ class Solution:
         result = []
         
         for num in reversed(nums):
-            pos = bisect.bisect_left(sorted_list, num)
+            pos = bisect_left(sorted_list, num)
             result.append(pos)
-            bisect.insort(sorted_list, num)
+            insort(sorted_list, num)
         
         return result[::-1]

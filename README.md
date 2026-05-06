@@ -559,6 +559,7 @@
 | [0802-find-eventual-safe-states](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
 | [0965-univalued-binary-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -610,6 +611,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
 | [0965-univalued-binary-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -664,6 +666,7 @@
 | [0785-is-graph-bipartite](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1971-find-if-path-exists-in-graph](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2050-parallel-courses-iii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2050-parallel-courses-iii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -673,6 +676,7 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [2050-parallel-courses-iii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2050-parallel-courses-iii) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Geometry

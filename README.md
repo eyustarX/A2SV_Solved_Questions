@@ -216,6 +216,7 @@
 | [0969-pancake-sorting](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
+| [1046-last-stone-weight](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1314-matrix-block-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1314-matrix-block-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -495,6 +496,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
 |  |
 | ------- |

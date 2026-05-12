@@ -562,6 +562,7 @@
 | [0210-course-schedule-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
 | [0437-path-sum-iii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0690-employee-importance](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
@@ -618,6 +619,7 @@
 | [0210-course-schedule-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0690-employee-importance](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0785-is-graph-bipartite](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
@@ -670,12 +672,14 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |

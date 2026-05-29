@@ -133,6 +133,7 @@
 | [2348-number-of-zero-filled-subarrays](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -253,6 +254,7 @@
 | [2780-minimum-index-of-a-valid-split](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Matrix
 |  |
 | ------- |

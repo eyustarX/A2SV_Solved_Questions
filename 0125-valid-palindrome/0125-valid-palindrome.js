@@ -3,17 +3,25 @@
  * @return {boolean}
  */
 var isPalindrome = function(f) {
-    const s = f.toLowerCase().replace(/[^a-z0-9]/g, "")
+    let left = 0, right = f.length - 1;
 
-    let left = 0
-    let right = s.length - 1
-    console.log(s)
+    const isAlphaNum = (word) => /[a-z0-9]/i.test(word);
+
     while (left < right){
-        if (s[left]!== s[right]){
-            return false
+        while (left < right && !isAlphaNum(f[left])){
+            left++;
         }
-        left += 1
-        right -= 1
+
+        while (left < right && !isAlphaNum(f[right])){
+            right--;
+        }
+
+        if (f[left].toLowerCase() !== f[right].toLowerCase()){
+            return false;
+        }
+
+        left++;
+        right--;
     }
 
     return true

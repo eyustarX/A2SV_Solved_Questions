@@ -178,6 +178,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0164-maximum-gap) |
@@ -383,6 +384,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/eyustarX/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0486-predict-the-winner](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |

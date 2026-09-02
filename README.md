@@ -12,6 +12,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0140-word-break-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -82,6 +83,7 @@
 | [0148-sort-list](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -184,6 +186,7 @@
 | [0189-rotate-array](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/eyustarX/A2SV_Solved_Questions/tree/master/0274-h-index) |
